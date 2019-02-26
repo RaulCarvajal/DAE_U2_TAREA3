@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo notDefined"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.1.1"
+  }
+}
